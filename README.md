@@ -115,7 +115,7 @@ print 'encore des questions sur a?'
 
 ## Structures de contrôle
 
-Source : <https://docs.python.org/3.5/tutorial/controlflow.html>
+Source : <https://docs.python.org/3/tutorial/controlflow.html>
 
 ### `if... else`
 
