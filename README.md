@@ -10,7 +10,7 @@
 
 
 
-
+[![Voir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ai-technipreneurs/ai-technipreneurs/blob/main/Introduction.ipynb)
 
 
 
