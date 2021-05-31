@@ -52,7 +52,7 @@ Il existe de nombreuses façons d'installer Python, une des meilleures est d'uti
 ## Plan de cours
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-- [Syntaxe générale](#syntaxe-g%C3%A9n%C3%A9rale)
+- [Vue d'ensemble](#syntaxe-g%C3%A9n%C3%A9rale)
   - [Variables et assignement](#variables-et-assignement)
   - [Syntaxe](#syntaxe)
   - [Structures de contrôle](#structures-de-contr%C3%B4le)
