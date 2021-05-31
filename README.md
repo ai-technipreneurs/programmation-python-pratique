@@ -440,9 +440,7 @@ Oui, tant que ces œuvres portent les mêmes termes de licence et fournissent un
 
 # Conclusion
 
-AU terme de cette formation, vous aurez certainement les bases pour bien attaquer le projet. 
-
-En espérant que Python vous plaise.
+Au terme de cette formation, vous aurez certainement les bases pour bien attaquer le projet.  En espérant que Python vous plaise.
 
 
 ## Contributeurs
