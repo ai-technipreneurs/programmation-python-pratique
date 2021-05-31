@@ -43,9 +43,7 @@ Pour cette formation, vous ne serez pas contraint d'intaller Python directement 
 
 ### OS X
 
-Il existe de nombreuses façons d'installer Python, une des meilleures est d'utiliser le package Anaconda. 
-
-**Nous vous conseillons d'installer la distribution Anaconda**. Elle contient tous les modules et packages nécessaires pour ce cours. Elle est disponible pour toutes les plateformes et possède une procédure d'installation assez simple. Vous pouvez la télécharger depuis http://continuum.io/downloads.  Des détails pour l'installation peuvent être trouvés ici : http://docs.continuum.io/anaconda/install.html 
+Il existe de nombreuses façons d'installer Python, une des meilleures est d'utiliser le package Anaconda.  Nous vous conseillons donc d'installer la distribution Anaconda. Elle contient tous les modules et packages nécessaires pour ce cours. Elle est disponible pour toutes les plateformes et possède une procédure d'installation assez simple. Vous pouvez la télécharger depuis http://continuum.io/downloads.  Des détails pour l'installation peuvent être trouvés ici : http://docs.continuum.io/anaconda/install.html 
 
 
 
@@ -392,7 +390,16 @@ python: test(**d)
 ``` 
 
 
+#### Plan détaillé
 
+| Thème du cours        | Description du thème         | Objectifs d'apprentissage |
+|:-------------|:------------------|:------|
+| Python & type de données           | Introduction à Colab, Variables, Entiers, Chaîne de caractères, etc.  | Identifier les différents types de données en python et comprendre les erreurs qui en découlent |
+|  Opérateurs|Opérateurs relationnels, incrémenter, décrémenter, si/sinon, etc.   | Utliser le bon opérateur relationnel, traduire un problème de texte en un si/sinon avec le bon opérateur, comprendre les erreurs qui en découlent |
+| Pratique (type de données et  opérateurs)         | Execrices avec divers niveaux de difficulté     | Structurer la résolution de problèmes, l'ébauche d'une solution, débogage  |
+| Boucles          | `while`,`for`, loupes emboîtées | Comment choisir la bonne boucle  |
+| Structures de données                | Listes, tableaux, dictionaires                | Itérer sur différents types de structures, convertir des types           |
+| Pratique (boucles et structures de données )| Execrices avec divers niveaux de difficulté|Structurer la résolution de problèmes, l'ébauche d'une solution, débogage |
 
 
 
