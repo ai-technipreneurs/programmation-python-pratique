@@ -8,7 +8,7 @@
 
 *Auteur: @ai-technipreneurs, ai.technipreneurs@gmail.com*
 
-## [Python: un survol rapide](http://www.larsen-b.com/static/intro_python/)
+
 
 
 
@@ -21,8 +21,10 @@ Cette formation, à la fois minimaliste et pratique, vous permettra de découvri
 
 Le langage de programmation Python est souvent utilisé dans les domaines scientifiques aujourd'hui. C’est un langage de programmation relativement accessible et adapté aux universitaires. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liés à l'algorithmique. Ce livre n'attend de vous aucun prérequis de programmation.
 
-Les avantages de Python sont nombreux. D'une part c'est sans doute le langage de script le plus utilisé au monde car on peut quasiment tout faire avec: programmation web, statistiques, machine learning, gestion de bases de données... La communauté de Python est la plus grande dans le monde de la programmation: si vous voulez quelque chose, quelqu'un l'a sûrement déjà fait.
+Les avantages de Python sont nombreux. D'une part c'est sans doute le langage de script le plus utilisé au monde car on peut quasiment tout faire avec: programmation web, statistiques, machine learning, gestion de bases de données. La communauté de Python est la plus grande dans le monde de la programmation: si vous voulez quelque chose, quelqu'un l'a sûrement déjà fait.
 
+
+## [Python: un survol rapide](http://www.larsen-b.com/static/intro_python/)
 
 ## Python X ?
 
