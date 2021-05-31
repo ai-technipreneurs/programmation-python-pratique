@@ -6,12 +6,13 @@
 
 *Auteur: @ai-technipreneurs, ai.technipreneurs@gmail.com*
 
-*Pour cette formation, des discussions live peuvent se faire sur [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) .*
+## [Python: un survol rapide](http://www.larsen-b.com/static/intro_python/)
 
 
 
 
-Cette formation, à la fois minimaliste et pratique, vous permettra de découvrir rapidement les concepts essentiels de la programmation en **Python**. Il faut dire que ça vaut la peine de s'intéresser à Python, c'est un langage qui sera forcément présent dans l'écosystème informatique des années à venir.
+
+Cette formation, à la fois minimaliste et pratique, vous permettra de découvrir rapidement les concepts essentiels de la programmation en **Python**. Il faut dire que ça vaut la peine de s'intéresser à Python, c'est un langage qui sera forcément présent dans l'écosystème informatique des années à venir. *Pour cette formation, des discussions live peuvent se faire sur [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge).*
 
 
 [Dépôt GitHub](https://github.com/ai-technipreneurs/programmation-python-pratique).
@@ -27,7 +28,7 @@ Nous utiserons Python 3 dans notre cours. Les versions précédentes peuvent pos
 Il y'a deux versions de Python, la 2 et la 3. La 2 n'est plus maintenue depuis 2017, il vaut donc mieux se mettre directement à la 3 (on est actuellement à la version 3.10).
 
 
-## [Python: un survol rapide](http://www.larsen-b.com/static/intro_python/)
+
 
 
 
