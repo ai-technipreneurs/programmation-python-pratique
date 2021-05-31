@@ -1,6 +1,5 @@
 #  Introduction au langage de programmation Python.
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *Tous les contenus originaux sont sous licence CC BY-NC-SA 4.0, les ressources extérieures (comme bootstrap) sont sous leur licence respective [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
 
@@ -28,7 +27,7 @@ Nous utiserons Python 3 dans notre cours. Les versions précédentes peuvent pos
 Il y'a deux versions de Python, la 2 et la 3. La 2 n'est plus maintenue depuis 2017, il vaut donc mieux se mettre directement à la 3 (on est actuellement à la version 3.10).
 
 
-[Python: un survol rapide](http://www.larsen-b.com/static/intro_python/)
+## [Python: un survol rapide](http://www.larsen-b.com/static/intro_python/)
 
 
 
@@ -53,7 +52,6 @@ Il existe de nombreuses façons d'installer Python, une des meilleures est d'uti
 ## Table des matières
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-- [Installation](#installation)
 - [Syntaxe générale](#syntaxe-g%C3%A9n%C3%A9rale)
   - [Variables et assignement](#variables-et-assignement)
   - [Syntaxe](#syntaxe)
