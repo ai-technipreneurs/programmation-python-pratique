@@ -428,7 +428,8 @@ python: test(**d)
 
 
 
-
+## Discussion communautaire
+Vous voulez discuter de l'atelier ? Vous pouvez rejoindre la conversation sur [Gitter](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Nous ne pouvons pas vous promettre une réponse individuelle, mais peut-être que d'autres personnes pourront intervenir pour vous aider.
 
 
 
