@@ -90,8 +90,8 @@ python: type(a)
 >> python: <type 'str'>
 python: a
 '3'
->> python:int(a)
-3
+int(a)
+>> python:3
 ``` 
 
 ## Syntaxe
@@ -160,8 +160,8 @@ Ainsi appelée, la fonction génère la liste des entiers entre `start`
 (inclus) et `end` (non inclus) avec pas de `step` :
 
 ``` python
-python: range(0, 10, 2)
-[0, 2, 4, 6, 8]
+range(0, 10, 2)
+>> python: [0, 2, 4, 6, 8]
 ``` 
 
 Les deux autres syntaxes admissibles sont `range(start, end)` (pas
@@ -227,15 +227,15 @@ déclare une liste avec les crochets `[]`, et on accède à ses éléments
 comme on accède aux éléments d'un tableau en C :
 
 ``` python
-python: l = ['nom','prenom',35, 'a', True]
-python: l
-['nom','prenom',35, 'a', True]
-python: l[0]
+l = ['nom','prenom',35, 'a', True]
+l
+>> python: ['nom','prenom',35, 'a', True]
+l[0]
 'nom'
-python: l[4]
+l[4]
 True
-python: l[5]
-Traceback (most recent call last):
+l[5]
+>> python: Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 IndexError: list index out of range
 ``` 
@@ -244,12 +244,12 @@ Les indices négatifs accèdent aux éléments à partir du
 dernier :
 
 ``` python
-python: l[-1]
-True
-python: l[-4]
-'prenom'
-python: l[-6]
-Traceback (most recent call last):
+l[-1]
+>> python: True
+l[-4]
+>> python: 'prenom'
+l[-6]
+>> python: Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 IndexError: list index out of range
 ``` 
@@ -260,35 +260,35 @@ qui démarre à l'élément `start` (inclus), se termine à l'élément `end`
 (exclus) et saute tous les `step` éléments.
 
 ``` python
-python: l = range(10)
-python: l
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-python: l[0:4]
-[0, 1, 2, 3]
-python: l[0:4:2]
-[0, 2]
-python: l[2:]
-[2, 3, 4, 5, 6, 7, 8, 9]
-python: l[:-3]
-[0, 1, 2, 3, 4, 5, 6]
-python: l[0::3]
-[0, 3, 6, 9]
-python: l[4:-2]
-[4, 5, 6, 7]
-python: l[::]
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-python: l[:]
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+l = range(10)
+l
+>> python: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+l[0:4]
+>> python: [0, 1, 2, 3]
+l[0:4:2]
+>> python: [0, 2]
+l[2:]
+>> python: [2, 3, 4, 5, 6, 7, 8, 9]
+l[:-3]
+>> python: [0, 1, 2, 3, 4, 5, 6]
+l[0::3]
+>> python: [0, 3, 6, 9]
+l[4:-2]
+>> python: [4, 5, 6, 7]
+l[::]
+>> python: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+l[:]
+>> python: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 ``` 
 
 La syntaxe `[:]` est un raccourci courant pour *copier* une liste :
 
 ``` python
-python: l[:] == l
-True
-python: l[:] is l
-False
+l[:] == l
+>> python: True
+l[:] is l
+>> python: False
 ``` 
 
 ### Compréhensions
@@ -300,8 +300,8 @@ de loupes. C'est un héritage du langage Lisp appelé
 *compréhensions de listes* :
 
 ``` python
-python: [a + 0.5 for a in range(10)]
-[0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5, 7.5, 8.5, 9.5]
+[a + 0.5 for a in range(10)]
+>> python: [0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5, 7.5, 8.5, 9.5]
 ``` 
 
 ce qui est sémantiquement équivalent à
@@ -354,17 +354,17 @@ paramètre prend une valeur par défaut, tous ceux qui le suivent
 doivent aussi en prendre.
 
 ``` python
-python: def test(a, b, c=0, d=False):
-.......    return a, b, c, d
+def test(a, b, c=0, d=False):
+...   return a, b, c, d
 
-python: test(1, 2)
-(1, 2, 0, False)
-python: test(1, 2, 3)
-(1, 2, 3, False)
-python: test(1, 2, 3, 4)
-(1, 2, 3, 4)
-python: test(1)
-Traceback (most recent call last):
+test(1, 2)
+>> python: (1, 2, 0, False)
+test(1, 2, 3)
+>> python: (1, 2, 3, False)
+test(1, 2, 3, 4)
+>> python: (1, 2, 3, 4)
+test(1)
+>> python: Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 TypeError: test() takes at least 2 arguments (1 given)
 ``` 
@@ -373,10 +373,10 @@ Les paramètres d'une fonction peuvent être assignés hors ordre avec la
 notation `paramètre=valeur` :
 
 ``` python
-python: test(b=1, a=2)
-(2, 1, 0, False)
-python: test(1, 2, d=4)
-(1, 2, 0, 4)
+test(b=1, a=2)
+>> python: (2, 1, 0, False)
+test(1, 2, d=4)
+>> python: (1, 2, 0, 4)
 ``` 
 
 Python fournit deux opérateurs unaires pour transformer des objets en
@@ -384,12 +384,12 @@ paramètres d'une fonction. L'opérateur `*` transforme une liste ou un
 tuple, tandis que l'opérateur `**` transforme un dictionnaire :
 
 ``` python
-python: l = range(4)
-python: test(*a)
-(0, 1, 2, 3)
-python: d = { 'a' : 3, 'b' : 5, 'd' : 1 }
-python: test(**d)
-(3, 5, 0, 1)
+l = range(4)
+test(*a)
+>> python: (0, 1, 2, 3)
+d = { 'a' : 3, 'b' : 5, 'd' : 1 }
+test(**d)
+>> python: (3, 5, 0, 1)
 ``` 
 
 
