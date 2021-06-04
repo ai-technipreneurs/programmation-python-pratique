@@ -16,7 +16,7 @@ Cette formation, à la fois minimaliste et pratique, vous permettra de découvri
 
 
 ## [Dépôt GitHub de la formation](https://github.com/ai-technipreneurs/programmation-python-pratique).
-## [Site officiel de la formation]
+## 👉 [Vers la formation]
 
 Le langage de programmation Python est souvent utilisé dans les domaines scientifiques aujourd'hui. C’est un langage de programmation relativement accessible et adapté aux universitaires. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liés à l'algorithmique. Ce livre n'attend de vous aucun prérequis de programmation.
 
