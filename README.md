@@ -46,7 +46,7 @@ Pour cette formation, vous ne serez pas contraint d'intaller Python directement 
 
 ### OS X
 
-Il existe de nombreuses façons d'installer Python, une des meilleures est d'utiliser le package Anaconda.  Nous vous conseillons donc d'installer la distribution Anaconda. Elle contient tous les modules et packages nécessaires pour ce cours. Elle est disponible pour toutes les plateformes et possède une procédure d'installation assez simple. Vous pouvez la télécharger depuis http://continuum.io/downloads.  Des détails pour l'installation peuvent être trouvés ici : http://docs.continuum.io/anaconda/install.html 
+Il existe de nombreuses façons d'installer Python, une des meilleures est d'utiliser le package Anaconda.  Nous vous conseillons donc d'installer la distribution Anaconda. Elle contient tous les modules et packages nécessaires pour ce cours. Elle est disponible pour toutes les plateformes et possède une procédure d'installation assez simple. Vous pouvez la télécharger depuis [Continuum](http://continuum.io/downloads).  Des détails pour l'installation peuvent être trouvés [ici](http://docs.continuum.io/anaconda/install.html). 
 
 
 
