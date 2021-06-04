@@ -452,6 +452,9 @@ Oui, tant que ces œuvres portent les mêmes termes de licence et fournissent un
 Au terme de cette formation, vous aurez certainement les bases pour bien attaquer le projet.  En espérant que Python vous plaise.
 
 
+
+
+
 ## Contributeurs
 
 - Yaé Ulrich Gaba
@@ -460,3 +463,6 @@ Au terme de cette formation, vous aurez certainement les bases pour bien attaque
 - Bernardin Ligan
 - Conité Gbodogbé
 
+
+## 
+[![image](https://user-images.githubusercontent.com/83169416/120837695-513a2300-c567-11eb-9e82-1f1e715e5513.png) Retour au site officiel de l'A3P](https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/).
