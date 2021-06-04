@@ -462,11 +462,12 @@ Au terme de cette formation, vous aurez certainement les bases pour bien attaque
 
 ## Contributeurs
 
-- Yaé Ulrich Gaba
 - Koffi Agbavon Messan
 - Awadi Abalo Katanga
 - Bernardin Ligan
 - Conité Gbodogbé
+- Domini Leko
+- Yaé Ulrich Gaba
 
 
 ## 
