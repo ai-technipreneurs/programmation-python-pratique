@@ -82,15 +82,15 @@ besoin d'être déclarées, et leur type peut changer au cours de
 l'exécution.
 
 ``` python
-python: a = 3
+a = 3
+type(a)
+>> python: <type 'int'>
+a = '3'
 python: type(a)
-<type 'int'>
-python: a = '3'
-python: type(a)
-<type 'str'>
+>> python: <type 'str'>
 python: a
 '3'
-python: int(a)
+>> python:int(a)
 3
 ``` 
 
