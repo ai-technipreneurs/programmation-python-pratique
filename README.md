@@ -402,7 +402,7 @@ test(**d)
 
 
 
-## Cahiers de cours dans Google Colab
+## Cahiers de cours dans [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 Chaque chapitre, entièrement contenu dans un **notebook iPython (Jupyter)**, est directement accessible sur la plateforme **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**. Google Colab est une plateforme cloud entièrement gratuite, donnant un accès direct et facile à un une interface de programmation en Python (via des cahiers/calepins Jupyter) déjà correctement pré-configurée, et disposant de nombreuses librairies pré-installées. [Accédez au sommaire](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/Index.ipynb).
 Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab.
