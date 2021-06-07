@@ -417,6 +417,19 @@ Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab
 
 
 
+## Cahiers de cours avec [nbviewer](https://nbviewer.jupyter.org/)
+
+Les cahiers peuvent être aussi consultés sous forme de page web statique avec [nbviewer](https://nbviewer.jupyter.org/). Dans cette configuration, 
+aucun code ne pourra etre exécuté. Les calepins sont lisibles [ici](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/tree/master/).
+
+
+### Sommaire
+
+* [0. Sur Colab](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/0_Sur_Colab.ipynb)
+* [1. Python en bref](https://colab.research.google.com/drive/1pZCx7_J30i-DgJmEe4NdRoXzD3AjS7Rv?authuser=2#scrollTo=SnSuv8RjqwzB)
+* [2. Variables,Types et Opérations](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/2_Variables_Types_Opérations.ipynb#scrollTo=Qdsuz2iWUOdE)
+* [3. Chaînes de caractères](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/3_Cha%C3%AEnes_de_caract%C3%A8res.ipynb) 
+
 
 
 
