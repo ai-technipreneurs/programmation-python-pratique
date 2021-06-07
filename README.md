@@ -421,7 +421,7 @@ Les cahiers peuvent être aussi consultés sous forme de page web statique avec 
 aucun code ne pourra etre exécuté. Les calepins sont lisibles [ici](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/tree/master/).
 
 
-* [Sommaire](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/blob/master/calepins-nbviewer/Index.ipynb)
+* [Sommaire](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/blob/main/Index.ipynb)
 * [0. Sur Colab](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/blob/main/0_Sur_Colab.ipynb)
 * [1. Python en bref](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/blob/main/1_Python_en_bref.ipynb)
 * [2. Variables,Types et Opérations](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/blob/main/2_Variables_Types_Op%C3%A9rations.ipynb)
