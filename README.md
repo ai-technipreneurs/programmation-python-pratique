@@ -418,15 +418,7 @@ Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab
 ## Cahiers de cours avec [nbviewer](https://nbviewer.jupyter.org/)
 
 Les cahiers peuvent être aussi consultés sous forme de page web statique avec [nbviewer](https://nbviewer.jupyter.org/). Dans cette configuration, 
-aucun code ne pourra etre exécuté. Les calepins sont lisibles [ici](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/tree/master/).
-
-
-* [Sommaire](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/blob/main/Index.ipynb)
-* [0. Sur Colab](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/blob/main/0_Sur_Colab.ipynb)
-* [1. Python en bref](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/blob/main/1_Python_en_bref.ipynb)
-* [2. Variables,Types et Opérations](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/blob/main/2_Variables_Types_Op%C3%A9rations.ipynb)
-* [3. Chaînes de caractères](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/blob/main/3_Cha%C3%AEnes_de_caract%C3%A8res.ipynb)
-
+aucun code ne pourra etre exécuté. Les calepins sont lisibles [ici]([le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/)).
 
 
 
