@@ -419,10 +419,6 @@ test(**d)
 
 
 
-
-
-
-
 ## Chapitres dans Google Colab
 
 
@@ -455,6 +451,7 @@ Oui, tant que ces œuvres portent les mêmes termes de licence et fournissent un
 # Conclusion
 
 Au terme de cette formation, vous aurez certainement les bases pour bien attaquer le projet.  En espérant que Python vous plaise.
+Par ailleurs, pour un tour assez complet de Python, consultez [le tutoriel Python](https://docs.python.org/fr/3/tutorial/). Il n'est pas exhaustif mais il couvre, en revanche, chaque fonctionnalité, parmi les plus utilisées. Il vous donne une bonne idée de la saveur et du style du langage.
 
 
 
