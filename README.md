@@ -34,19 +34,11 @@ Il y'a deux versions de Python, la 2 et la 3. La 2 n'est plus maintenue depuis 2
 
 
 
-
-
-
-## Cahiers de cours dans Google Colab
-
-Chaque chapitre, entièrement contenu dans un **notebook iPython (Jupyter)**, est directement accessible sur la plateforme **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**. Google Colab est une plateforme cloud entièrement gratuite, donnant un accès direct et facile à un une interface de programmation en Python (via des cahiers/calepins Jupyter) déjà correctement pré-configurée, et disposant de nombreuses librairies pré-installées.
-
-
 ## Installation
 
 Pour cette formation, vous ne serez pas contraint d'intaller Python directement sur votre oridnateur car avec **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**, vous pouvez exécuter les lignes de code dans le *cloud*. Pour ceux qui voudront travailler hors-connection, une installation est cependant nécessaire. Pour installer Python localement, la distribution Anaconda est recommandée, ainsi que l'environnement Jupyter Lab : https://www.anaconda.com/distribution/.
 
-### OS X
+#### OS X
 
 Il existe de nombreuses façons d'installer Python, une des meilleures est d'utiliser le package Anaconda.  Nous vous conseillons donc d'installer la distribution Anaconda. Elle contient tous les modules et packages nécessaires pour ce cours. Elle est disponible pour toutes les plateformes et possède une procédure d'installation assez simple. Vous pouvez la télécharger depuis [Continuum](http://continuum.io/downloads).  Des détails pour l'installation peuvent être trouvés [ici](http://docs.continuum.io/anaconda/install.html). 
 
@@ -410,16 +402,19 @@ test(**d)
 
 
 
+## Cahiers de cours dans Google Colab
+
+Chaque chapitre, entièrement contenu dans un **notebook iPython (Jupyter)**, est directement accessible sur la plateforme **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**. Google Colab est une plateforme cloud entièrement gratuite, donnant un accès direct et facile à un une interface de programmation en Python (via des cahiers/calepins Jupyter) déjà correctement pré-configurée, et disposant de nombreuses librairies pré-installées. [Accédez au sommaire](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/Index.ipynb).
+Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab.
 
 
+### Sommaire
 
+* [0. Sur Colab](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/0_Sur_Colab.ipynb)
+* [1. Python en bref](https://colab.research.google.com/drive/1pZCx7_J30i-DgJmEe4NdRoXzD3AjS7Rv?authuser=2#scrollTo=SnSuv8RjqwzB)
+* [2. Variables,Types et Opérations](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/2_Variables_Types_Opérations.ipynb#scrollTo=Qdsuz2iWUOdE)
+* [3. Chaînes de caractères](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/3_Cha%C3%AEnes_de_caract%C3%A8res.ipynb) 
 
-
-
-
-
-
-## Chapitres dans Google Colab
 
 
 
