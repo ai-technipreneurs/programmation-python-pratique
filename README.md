@@ -407,13 +407,11 @@ test(**d)
 Chaque chapitre, entièrement contenu dans un **notebook iPython (Jupyter)**, est directement accessible sur la plateforme **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**. Google Colab est une plateforme cloud entièrement gratuite, donnant un accès direct et facile à un une interface de programmation en Python (via des cahiers/calepins Jupyter) déjà correctement pré-configurée, et disposant de nombreuses librairies pré-installées. [Accédez au sommaire](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/Index.ipynb).
 Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab.
 
-
-### Sommaire
-
-* [0. Sur Colab](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/0_Sur_Colab.ipynb)
-* [1. Python en bref](https://colab.research.google.com/drive/1pZCx7_J30i-DgJmEe4NdRoXzD3AjS7Rv?authuser=2#scrollTo=SnSuv8RjqwzB)
-* [2. Variables,Types et Opérations](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/2_Variables_Types_Opérations.ipynb#scrollTo=Qdsuz2iWUOdE)
-* [3. Chaînes de caractères](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/3_Cha%C3%AEnes_de_caract%C3%A8res.ipynb) 
+ * [Sommaire](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/Index.ipynb)
+ * [0. Sur Colab](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/0_Sur_Colab.ipynb)
+ * [1. Python en bref](https://colab.research.google.com/drive/1pZCx7_J30i-DgJmEe4NdRoXzD3AjS7Rv?authuser=2#scrollTo=SnSuv8RjqwzB)
+ * [2. Variables,Types et Opérations](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/2_Variables_Types_Opérations.ipynb#scrollTo=Qdsuz2iWUOdE)
+ * [3. Chaînes de caractères](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/3_Cha%C3%AEnes_de_caract%C3%A8res.ipynb) 
 
 
 
@@ -423,12 +421,13 @@ Les cahiers peuvent être aussi consultés sous forme de page web statique avec 
 aucun code ne pourra etre exécuté. Les calepins sont lisibles [ici](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/tree/master/).
 
 
-### Sommaire
 
-* [0. Sur Colab](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/blob/master/0_Sur_Colab.ipynb)
-* [1. Python en bref](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/blob/master/1_Python_en_bref.ipynb)
-* [2. Variables,Types et Opérations](https://github.com/ai-technipreneurs/programmation-python-pratique/blob/master/2_Variables_Types_Op%C3%A9rations.ipynb)
-* [3. Chaînes de caractères](https://github.com/ai-technipreneurs/programmation-python-pratique/blob/master/3_Cha%C3%AEnes_de_caract%C3%A8res.ipynb) 
+* [Sommaire](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/blob/master/calepins-nbviewer/Index.ipynb)
+* [0. Sur Colab](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/blob/master/calepins-nbviewer/0_Sur_Colab.ipynb)
+* [1. Python en bref](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/blob/master/calepins-nbviewer/1_Python_en_bref.ipynb)
+* [2. Variables,Types et Opérations](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/blob/master/calepins-nbviewer/2_Variables_Types_Op%C3%A9rations.ipynb)
+* [3. Chaînes de caractères](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/blob/master/calepins-nbviewer/3_Cha%C3%AEnes_de_caract%C3%A8res.ipynb)
+
 
 
 
