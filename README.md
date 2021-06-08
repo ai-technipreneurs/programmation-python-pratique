@@ -421,7 +421,7 @@ Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab
 ## Cahiers de cours avec [nbviewer](https://nbviewer.jupyter.org/)
 
 Les cahiers peuvent être aussi consultés sous forme de page web statique avec [nbviewer](https://nbviewer.jupyter.org/). Dans cette configuration, 
-aucun code ne pourra etre exécuté. Les calepins sont lisibles [ici]([le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/).
+aucun code ne pourra etre exécuté. Les calepins sont lisibles [ici, avec le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/).
 
 
 
