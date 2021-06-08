@@ -412,6 +412,9 @@ Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab
  * [1. Python en bref](https://colab.research.google.com/drive/1pZCx7_J30i-DgJmEe4NdRoXzD3AjS7Rv?authuser=2#scrollTo=SnSuv8RjqwzB)
  * [2. Variables,Types et Opérations](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/2_Variables_Types_Opérations.ipynb#scrollTo=Qdsuz2iWUOdE)
  * [3. Chaînes de caractères](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/3_Cha%C3%AEnes_de_caract%C3%A8res.ipynb) 
+ * [4. Objets itérables ou conteneurs](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/4_Objets-it%C3%A9rables-ou-conteneurs.ipynb)
+ * [5. Les boucles](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/5_Les-boucles.ipynb)
+ * [6. Fonctions et Modules](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/6_Fonctions-et-Modules.ipynb)
 
 
 
