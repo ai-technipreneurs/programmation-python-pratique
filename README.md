@@ -455,7 +455,7 @@ Par ailleurs, pour un tour assez complet de Python, consultez [le tutoriel Pytho
 
 
 
-## 👉 [Vers la formation](https://ai-technipreneurs.github.io/pages-web-atelier-3-P/Notes/Contenu.html)
+## 👉 [Vers les cahiers de la formation](https://ai-technipreneurs.github.io/pages-web-atelier-3-P/Notes/Contenu.html)
 
 
 
